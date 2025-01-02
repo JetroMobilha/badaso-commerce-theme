@@ -25,7 +25,8 @@
     "bamfura/core": "*",
     "bamfura/conteudo-site": "*",
     "bamfura/conteudo-loja": "*",
-    "inertiajs/inertia-laravel": "^0.5",
+    "inertiajs/inertia-laravel": "^0.5.4",
+    
     "tightenco/ziggy": "^1.4"
   },
   "authors": [
